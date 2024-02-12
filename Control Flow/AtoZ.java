@@ -1,4 +1,4 @@
-public class AtoZ {
+public class AtoZ{
 
     public static void main(String[] args) {
         char a;
