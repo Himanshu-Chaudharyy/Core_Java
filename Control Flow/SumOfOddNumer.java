@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class SumOfOddNumer {
+public class SumOfOddNumer{
     public static void main(String[]args){
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter sum of odd number range to fun sum :");
